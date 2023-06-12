@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&color=3868FF&width=435&lines=I+am+Ya-Yuan%2CYang.%F0%9F%90%BC;Hello%2CVisitor!%F0%9F%98%8E)](https://git.io/typing-svg)
 <!--
 **yuannn90/yuannn90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
