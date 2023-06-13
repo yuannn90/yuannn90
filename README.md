@@ -5,5 +5,6 @@
 
 - 🔭 I’m currently studying at Asia University.
 - 🎬 The major I am studying is Information Communication.
-- 📫 How to reach me:  <a href="mailto:dian4614@gmail.com">My Gmail</a>
 - 📷 Interested in photography and movies.
+- 📫 How to reach me:  <a href="mailto:dian4614@gmail.com">My Gmail</a>
+
